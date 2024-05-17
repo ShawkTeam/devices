@@ -1,0 +1,23 @@
+27-04-2024
+- Merged with RisingOS 3.0 source (https://github.com/RisingTechOSS/risingOS_changelogs)
+- Switched to android.hardware.usb@1.3-service.dual_role_usb
+- Fixed min brightness
+- Moved props to configs/props
+- Used HWUI Hint
+- Add speed preopt for Trebuchet/Settings/SystemUI
+- Remove package cache on early boot
+- ginkgo: Patch lib-imsvideocodec.so
+- ginkgo: Provide libprotobuf-cpp-lite-3.9.1-vendorcompat
+- ginkgo: Reduce swappiness to 60
+- Bring it in match with the kernel defined paramenter
+- ginkgo: Use the common device compatibility matrix from QCOM
+- Drop XiaomiParts
+- Add FPS Info overlay
+- ginkgo: display: Set debug.sf.auto_latch_unsignaled to 0
+- ginkgo: overlay: Enable battery cycle count
+- Drop oggabogga non exsist checks (/)
+- Set kernel target level to 5
+- Drop system_ext.prop and move to vendor.prop and more
+==================
+15-04-2024
+- Initial RisingOS build for ginkgo/willow
