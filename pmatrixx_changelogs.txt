@@ -1,18 +1,56 @@
-25-04-2024
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 8/8T
+Device maintainer: eklerismunir
+
+====================
+    18-05-2024
+  DEVICE CHENGELOG
+====================
+- Merged With Project Matrixx 10.5.1 source (Source Changelog:https://www.projectmatrixx.org/changelog) aka May Security Patches
+- Remove package cache on early boot
+- Move overlays to product
+- Disable display refresh rate override
+- Import custom task_profiles from sunny
+- Add speed preopt for Trebuchet/Settings/SystemUI
+- Import Android Go performance tuning
+- Use HintManager for HWUI
+- Patch lib-imsvideocodec.so 
+- Provide libprotobuf-cpp-lite-3.9.1-vendorcompat
+- Enable battery cycle count
+- Reduce swappiness to 60
+- display: Set debug.sf.auto_latch_unsignaled to 0
+- Use the common device compatibility matrix from QCOM
+- Add FPS Info overlay
+- Drop system_ext.prop and merge system_ext bluetoth properties back to vendor
+- Move Props to configs/props
+- Drop ro.crypto.allow_encrypt_override
+- Set hidl kernel target level
+- Fix minimum brightness 
+====================
+    25-04-2024
+  DEVICE CHENGELOG
+====================
 - Merged with Project Matrixx 10.4.2 source
 - Fixed: Fingerprint not working
 - Fixed: WiFi not working
-==============================
-10-04-2024
+====================
+    10-04-2024
+  DEVICE CHENGELOG
+====================
 - Merged with Project Matrixx QPR2 source
 - Switched to android.hardware.usb@1.3-service.dual_role_usb
 - Gapps level reduced to core
-=============================
-07-03-2024
+====================
+    07-03-2024
+  DEVICE CHENGELOG
+====================
 - Dropped Unused battery health strings
 - Dropped MIUI camera (because MIUI cam not working correctly on ginkgo)
 - Fixed Battery Light
 - Sync With Project Matrixx March-3-2024 Update
-==========================
-24-02-2024
+====================
+    24-02-2024
+  DEVICE CHENGELOG
+====================
 - Initial build
