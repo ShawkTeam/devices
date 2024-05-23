@@ -1,7 +1,7 @@
 # Redmi Note 8/8T (ginkgo/willow)
 
 **Device Maintainer**
-- This Device maintained by [eklerismunir](https://github.com/eklerismunirr) && [ozturkmutlu65](https://github.com/ozturkmutlu65)
+- This Device maintained by [eklerismunir](https://github.com/eklerismunirr) && [ozturkmutlu65](https://github.com/ozturkmutlu65) && [Yong](https://github.com/afkyoung)
 
 ## ROMs made by our maintainers for this device
 
