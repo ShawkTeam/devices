@@ -1,0 +1,27 @@
+How to flash?
+
+Flashing instructions
+- Download ROM zip, recovery zip and fw.
+- Extarct recovery zip
+- Boot to fastboot then flash extracted recovery images
+- fastboot flash boot boot.img
+- fastboot flash vendor_boot vendor_boot.img
+
+- Run fastboot reboot recovery
+- Format data with the recovery.
+- Click Apply Update.
+- Select your preferred method (Sideload/SDCard)
+(For Sideload run : adb sideload lineage*.zip)
+(For SDCard just select the zip from where you saved it)
+- Reboot to recovery
+- Flash FW (Sideload/SDCard)
+- Reboot to system
+
+Update Instructions
+- Download ROM zip
+- Reboot to recovery
+- Click Apply Update
+- Select your preferred method (Sideload/SDCard)
+- Reboot to recovery
+- Flash FW
+- Reboot to system

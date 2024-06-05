@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 10
+Device maintainer: eklerismunir
+
+====================
+    12-05-2024
+  DEVICE CHENGELOG
+====================
+- Initial OFFICIAL AlphaDroid build for Redmi Note 10 (sunny/mojito)

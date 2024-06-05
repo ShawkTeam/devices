@@ -1,0 +1,25 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 10
+Device maintainer: eklerismunir
+
+====================
+    21-04-2024
+  DEVICE CHENGELOG
+====================
+- Fixed Custom clocks
+- Import apns-conf.xml from V14.0.7.0.TKFMIXMC (for fix mobile internet)
+- Reverted "Added CalyxOS maintainer to Device Info page"
+- Reverted "Removed Chromium and Sound recorder"
+====================
+    20-04-2024
+  DEVICE CHENGELOG
+====================
+- Shipped With Custom Clocks
+- Added CalyxOS maintainer to Device Info page
+- Removed Chromium and Sound recorder
+====================
+    19-04-2024
+  DEVICE CHENGELOG
+====================
+- Initial Calyx OS build for Redmi Note 10 (sunny/mojito)
