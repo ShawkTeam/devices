@@ -1,0 +1,21 @@
+How to flash?
+
+Required files
+- If miui 12 is installed, use this  https://t.me/selenetr/15272
+- If miui 13+ is installed, use this https://t.me/selenetr/4962
+- Whichever MIUI version you are on, its boot file
+- Rom zip
+
+Custom recovery installation instructions
+- fastboot flash boot twrpname.img
+- fastboot reboot recovery 
+- flash the boot to the boot partition
+- flash the twrp to the ramdisk partition
+- reboot recovery
+
+Flashing Steps
+- Format data with recovery
+- Select install package and swipe flash
+- Reboot sytem
+Warning!!!
+-If your screen type is fts, flash this kernel https://t.me/fukiamimir/243
