@@ -13,7 +13,7 @@
 ### Links and etc..
 
 - [Redmi 10 Turkey Community](https://t.me/selenetr)
-- [Donate to Hasan6034](https://www.buymeacoffee.com/hasan6034)
+- [Donate to maintainer](https://www.buymeacoffee.com/hasan6034)
 - [Telegram Channel](https://t.me/shawkbuilds)
 - [Telegram Community](https://t.me/shawkbuilddiscussion)
 
