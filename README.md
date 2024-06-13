@@ -9,6 +9,8 @@
 | :---------------------- | :---------------------------------------------------------------|
 | Project Matrixx         | UNOFFICIAL                                                      |
 | AlphaDroid              | UNOFFICIAL                                                      |
+| Project İnfinity-X      | OFFICIAL                                                        |
+
 
 ### Links and etc..
 
