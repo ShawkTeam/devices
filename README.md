@@ -9,6 +9,7 @@
 | :---------------------- | :---------------------------------------------------------------|
 | Awaken OS               | UNOFFICIAL                                                      |
 | Droidx UI               | UNOFFICIAL                                                      |
+| DerpFest                | UNOFFICIAL                                                      |
 
 ### Links and etc..
 
