@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi 10
+Device maintainer: hasan6034
+
+====================
+    14-06-2024
+  DEVICE CHENGELOG
+====================
+- Initial Build for Redmi 10
