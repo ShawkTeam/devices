@@ -10,6 +10,7 @@
 | Awaken OS               | UNOFFICIAL                                                      |
 | Droidx UI               | UNOFFICIAL                                                      |
 | DerpFest                | UNOFFICIAL                                                      |
+| Halcyon Ursinia         | UNOFFICIAL                                                      |
 
 ### Links and etc..
 
