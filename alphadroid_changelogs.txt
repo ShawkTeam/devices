@@ -4,6 +4,18 @@ Device: Xiaomi Redmi Note 10
 Device maintainer: eklerismunir
 
 ====================
+    08-07-2024
+  DEVICE CHENGELOG
+====================
+- Sync with latest AlphaDroid source (https://t.me/alphadroid_releases/333)
+- Fixed Tap sensors (DT2W etc.)
+- Dropped built-in microg in vanilla build
+- The build has been signed and the problems with safetynet have been resolved
+- Switched to prebuilt camera provider
+- Patched camera provider to load new symbols
+- Adapted Aperture Camera overlays for prebuilt camera provider
+
+====================
     12-05-2024
   DEVICE CHENGELOG
 ====================
