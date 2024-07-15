@@ -1,0 +1,21 @@
+ROM İNSTALLATİON GUİDE 
+⚠️ Your warranty will be void after installing a custom ROM.
+⚠️ Everything on your device will be deleted. Don't forget to back up your device. 
+-If your device is completely original and BL locked, follow the steps below: 
+1. Enable developer options from settings. 
+2. Open developer options and enable OEM lock status. 
+3. Turn off your device. 
+4. Press and hold the volume buttons (+ and -) on the device and connect your device to the computer. Your device will enter Odin mode. 
+5. After the blue screen appears, press and hold volume + and BL will turn on. 
+6. Boot your device back into Odin mode and then enter setup mode by pressing volume + key. 
+7. Download the recovery software suitable for your device (twrp, orangefox, etc.). 
+8. Install the USB drivers, open the Odin program, select the recovery software from the AP section in the program and the vbmeta from the BL section, then disable automatic reboot. 
+9. Connect your device to the computer and start the installation. 
+10. After it is installed, press and hold the device's power button and volume - button until the screen disappears, and then press and hold the power and volume + button until the recovery software appears. 
+
+-ROM Installation: 
+1. Download the ROM. 
+2. Enter the recovery software and press the format data button and type YES to confirm. Then restart the recovery. [guide]
+3. Then install the ROM on your device or via micro SD card. 
+4. If you are using it, then you can install gapps. 
+5. Enjoy.

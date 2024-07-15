@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy A51, F41, M31s, M31, M21
+Device maintainer: qnttechh
+
+====================
+    20-05-2024
+  DEVICE CHENGELOG
+====================
+- Initial Build for Samsung Galaxy A51, F41, M31s, M31, M21
+- Microphone issue fixed. 

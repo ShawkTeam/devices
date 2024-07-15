@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy M21
+Device maintainer: qnttechh
+
+====================
+    02-05-2024
+  DEVICE CHENGELOG
+====================
+- Initial Build for Samsung Galaxy M21
