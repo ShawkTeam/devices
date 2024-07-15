@@ -1,13 +1,22 @@
-### Welcome to ShawkTeam
+# Samsung Galaxy A51/F41/M31s/M31/M21
 
-**Supported Devices**
+**Device Maintainer**
+- This Device maintained by [qnttechh](https://github.com/qnttechh)
 
-- [Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G](https://github.com/ShawkTeam/devices/tree/ruby)
-- [Redmi Note 12 Pro](https://github.com/ShawkTeam/devices/tree/sweetk6a)
-- [Redmi Note 10](https://github.com/ShawkTeam/devices/tree/sunny)
-- [Redmi Note 8/8T](https://github.com/ShawkTeam/devices/tree/ginkgo)
-- [Redmi 10](https://github.com/ShawkTeam/devices/tree/selene)
+## ROMs made by our maintainer for this device
+
+| ROMs                    | Status                                                          |
+| :---------------------- | :---------------------------------------------------------------|
+| Project Matrixx         | UNOFFICIAL                                                      |
+| AlphaDroid              | UNOFFICIAL                                                      |
+| EvolutionX              | UNOFFICIAL                                                      |
+| crDroid                 | UNOFFICIAL                                                      |
 
 ### Links and etc..
+
 - [Telegram Channel](https://t.me/shawkbuilds)
 - [Telegram Community](https://t.me/shawkbuilddiscussion)
+
+## Device picture
+
+![Redmi 10/2022/Prime/Redmi Note 11 4g](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a51-sm-a515-1.jpg "Galaxy A51")
