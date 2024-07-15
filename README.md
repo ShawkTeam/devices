@@ -8,7 +8,7 @@
 | ROMs                    | Status                                                          |
 | :---------------------- | :---------------------------------------------------------------|
 | Project Matrixx         | UNOFFICIAL                                                      |
-| AlphaDroid              | UNOFFICIAL                                                      |
+| AlphaDroid              | OFFICIAL                                                        |
 | Project İnfinity-X      | OFFICIAL                                                        |
 
 
