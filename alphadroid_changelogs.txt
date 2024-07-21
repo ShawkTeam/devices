@@ -8,9 +8,9 @@ Device maintainer: eklerismunir
   DEVICE CHENGELOG
 ====================
 - Sync with AlphaDroid 2.3 source
-- Imported Xiaomi Parts from xiaomi-sdm845-common
+- Import Xiaomi Parts from xiaomi-sdm845-common
 - Move common wakeup nodes to qcom sepolicy
-- Updated blobs from MIUI V14.0.9.0.SKGMIXM
+- Update blobs from MIUI V14.0.9.0.SKGMIXM
 - Drop vendor.qti.hardware.cacert hal
 - Enable LZ4 compression for ramdisks
 - Prevent adding same dependency twice in blob_fixup
