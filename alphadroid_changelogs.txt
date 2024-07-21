@@ -4,6 +4,26 @@ Device: Xiaomi Redmi Note 10
 Device maintainer: eklerismunir
 
 ====================
+    21-07-2024
+  DEVICE CHENGELOG
+====================
+- Sync with AlphaDroid 2.3 source
+- Imported Xiaomi Parts from xiaomi-sdm845-common
+- Move common wakeup nodes to qcom sepolicy
+- Updated blobs from MIUI V14.0.9.0.SKGMIXM
+- Drop vendor.qti.hardware.cacert hal
+- Enable LZ4 compression for ramdisks
+- Prevent adding same dependency twice in blob_fixup
+- Migrate to task_profiles for prebuilt init scripts
+- Drop TARGET_CAMERA_BOOTTIME_TIMESTAMP
+- Remove wait_for_keymaster and all references
+- Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Convert WiFi firmware symlinks to install_symlink targets
+- Mark CNE symlink target as required package
+- Move to new RFS install_symlink targets
+- Don't allow bluetooth to read /data/vendor/wifi
+
+====================
     08-07-2024
   DEVICE CHENGELOG
 ====================
