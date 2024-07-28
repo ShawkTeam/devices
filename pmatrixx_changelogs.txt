@@ -4,6 +4,26 @@ Device: Xiaomi Redmi Note 8/8T
 Device maintainer: eklerismunir
 
 ====================
+    27-05-2024
+  DEVICE CHENGELOG
+====================
+- Initial QPR3 build
+- Drop TARGET_DISABLE_EPPE
+- Sign builds witn lineage-priv keys
+- Adapt wakeup nodes for Lineage
+- Drop libldacBT_bco
+- Move bluetooth to configs/bluetooth
+- Remove wait_for_keymaster and all references
+- Include lineage FCM
+- FCM: Label missing hardware nxp nfc hal entry
+- Move to new RFS install_symlink targets
+- Build missing libraries for 14 QPR3
+- Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Don't explicitly build fs_config_files
+- Add device framework compatibility matrix
+- Set manifest target-level to 5 
+
+====================
     18-05-2024
   DEVICE CHENGELOG
 ====================
