@@ -1,0 +1,22 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi 10
+Device maintainer: hasan6034
+
+====================
+    07-08-2024
+  DEVICE CHENGELOG
+====================
+- Initialize A14 qpr3
+- Fixed screen recorder
+- Set kernel target level to 5
+- Removed omx codecs
+- Inculude c2 codecs
+- Moved props to configs/props
+- Moved manifest to configs/vintf
+- Update fcm
+- Try fix nfc
+- Heating problem solved (real this time)
+- Qs lags are gone thanks to qpr3
+- Remove unnecessary 32 bit blobs
+- Add more variants

@@ -11,6 +11,7 @@
 | Droidx UI               | UNOFFICIAL                                                      |
 | DerpFest                | UNOFFICIAL                                                      |
 | Halcyon Ursinia         | UNOFFICIAL                                                      |
+| crDroid v10.6           | UNOFFICIAL                                                      |
 
 ### Links and etc..
 
