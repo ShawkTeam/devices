@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi 10
+Device maintainer: hasan6034
+
+====================
+    08-08-2024
+  DEVICE CHENGELOG
+====================
+- Initialize A14 qpr3
+- Fix youtube lag
