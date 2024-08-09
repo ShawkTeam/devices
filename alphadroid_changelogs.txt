@@ -4,7 +4,7 @@ Device: Xiaomi Redmi Note 10
 Device maintainer: eklerismunir
 
 ====================
-    21-07-2024
+    09-08-2024
   DEVICE CHENGELOG
 ====================
 - Sync with AlphaDroid 2.3 source
@@ -15,7 +15,6 @@ Device maintainer: eklerismunir
 - Enable LZ4 compression for ramdisks
 - Prevent adding same dependency twice in blob_fixup
 - Migrate to task_profiles for prebuilt init scripts
-- Drop TARGET_CAMERA_BOOTTIME_TIMESTAMP
 - Remove wait_for_keymaster and all references
 - Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
 - Convert WiFi firmware symlinks to install_symlink targets
