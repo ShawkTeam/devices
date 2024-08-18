@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi 10
+Device maintainer: hasan6034
+
+====================
+    18-08-2024
+  DEVICE CHENGELOG
+====================
+- Initial Build for Redmi 10
+- Fix bluetooth
+- Update VT blobs
+- Update kpoc_charger
+- Update IMS Service
+- Drop Patch
