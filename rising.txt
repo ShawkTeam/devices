@@ -4,6 +4,14 @@ Device: Xiaomi Redmi 10
 Device maintainer: hasan6034
 
 ====================
+    20-08-2024
+  DEVICE CHENGELOG
+====================
+- Moto Dolby Inculuded
+- Fix bluetooth
+- Lawnchair and pixel launcher (pixel launcher is only available in gapps) included
+
+====================
     08-08-2024
   DEVICE CHENGELOG
 ====================

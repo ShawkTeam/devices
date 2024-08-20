@@ -12,7 +12,7 @@
 | DerpFest                | UNOFFICIAL                                                      |
 | Halcyon Ursinia         | UNOFFICIAL                                                      |
 | crDroid v10.6           | UNOFFICIAL                                                      |
-| Rising OS V4.2          | UNOFFICIAL                                                      |
+| Rising OS               | UNOFFICIAL                                                      |
 | Lineage OS	          | UNOFFICIAL                                                      |
 
 ### Links and etc..
