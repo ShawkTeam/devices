@@ -14,6 +14,7 @@
 | crDroid v10.6           | UNOFFICIAL                                                      |
 | Rising OS               | UNOFFICIAL                                                      |
 | Lineage OS	          | UNOFFICIAL                                                      |
+| AlphaDroid 	          | UNOFFICIAL                                                      |
 
 ### Links and etc..
 
