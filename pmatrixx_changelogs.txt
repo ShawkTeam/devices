@@ -4,6 +4,15 @@ Device: Xiaomi Redmi Note 8/8T
 Device maintainer: eklerismunir
 
 ====================
+    24-08-2024
+  DEVICE CHENGELOG
+====================
+- MiuiCamera and Viper4Android FX added
+- Used RyzenKernel
+- Power hal version changed
+- Added QuickTap
+
+====================
     27-05-2024
   DEVICE CHENGELOG
 ====================
