@@ -15,6 +15,7 @@
 | Rising OS               | UNOFFICIAL                                                      |
 | Lineage OS	          | UNOFFICIAL                                                      |
 | AlphaDroid 	          | UNOFFICIAL                                                      |
+| PixelStar 	          | UNOFFICIAL                                                      |
 
 ### Links and etc..
 
