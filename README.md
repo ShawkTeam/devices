@@ -1,5 +1,5 @@
-### Welcome to ShawkTeam
-
+### The list of devices that ShawkTeam supports & maintain.
+---
 **Supported Devices**
 
 - [Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G](https://github.com/ShawkTeam/devices/tree/ruby)
@@ -8,6 +8,6 @@
 - [Redmi 10](https://github.com/ShawkTeam/devices/tree/selene)
 - [Exynos9611](https://github.com/ShawkTeam/devices/tree/exynos9611)
 
-### Links and etc..
+### Links
 - [Telegram Channel](https://t.me/shawkbuilds)
 - [Telegram Community](https://t.me/shawkbuilddiscussion)
