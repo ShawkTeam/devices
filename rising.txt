@@ -4,6 +4,14 @@ Device: Xiaomi Redmi 10
 Device maintainer: hasan6034
 
 ====================
+    10-09-2024
+  DEVICE CHENGELOG
+====================
+- Fix Screen Recorder
+- Fix Gapps Install
+- Enough is enough, Selene must be shut down
+
+====================
     20-08-2024
   DEVICE CHENGELOG
 ====================
