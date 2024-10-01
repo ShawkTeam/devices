@@ -4,6 +4,14 @@ Device: Xiaomi Redmi 10
 Device maintainer: hasan6034
 
 ====================
+    01-10-2024
+  DEVICE CHENGELOG
+====================
+- Initial Android 15
+- Include Dolby
+- Include Miui Camera
+
+====================
     14-06-2024
   DEVICE CHENGELOG
 ====================
