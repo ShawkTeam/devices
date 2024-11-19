@@ -4,6 +4,15 @@ Device: Xiaomi Redmi 10
 Device maintainer: hasan6034
 
 ====================
+    19-11-2024
+  DEVICE CHENGELOG
+====================
+- Initial los 20
+- Updated Spl
+- Changed Device tree
+- Fixed the problem of turning off the screen when restarting in fts screens
+
+====================
     18-08-2024
   DEVICE CHENGELOG
 ====================
