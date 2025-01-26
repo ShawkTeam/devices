@@ -1,25 +1,23 @@
-# Xiaomi Redmi Note 10 (sunny/mojito)
+# Xiaomi Redmi Note 9 / Redmi 10X 4g (merlinx)
 
 ## Device Maintainers ##
-- [mnasibzade](https://github.com/mnasibzade)
-- [soyabkhanmalek](https://github.com/soyabkhanmalek)
-- [dpenra](https://github.com/dpenra)
+- [EmreDemirn](https://github.com/EmreDemirn)
 
 ### ROMs made by our maintainers for this device
 
 | ROMs                    | Status                                                          |
 | :---------------------- | :---------------------------------------------------------------|
-| CalyxOS                 | UNOFFICIAL                                                      |
-| AlphaDroid              | OFFICIAL                                                        |
-| OrionOS                 | OFFICIAL                                                        |
-| RisingOS                | UNOFFICIAL                                                      |
-| SomethingOS             | UNOFFICIAL                                                      |
+| LineageOS               | UNOFFICIAL                                                      |
+| crDroid                 | UNOFFICIAL                                                      |
+| Project Sakura          | UNOFFICIAL                                                      |
+| Project Pixelage        | UNOFFICIAL                                                      |
 
 ### Links and etc..
-
+- [EmreDemirn's Community](https://t.me/emredemirnbuildsdiscusion)
 - [Telegram Channel](https://t.me/shawkbuilds)
 - [Telegram Community](https://t.me/shawkbuilddiscussion)
 
 ### Device picture
 
-![Xiaomi Redmi Note 10](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-11.jpg "Xiaomi Redmi Note 10 in Aqua Green")
+
+![Xiaomi Redmi Note 9](https://i01.appmifile.com/webfile/globalimg/sg/cms/C954339F-A02F-47F0-648A-E99767C03544.jpg)
