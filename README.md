@@ -4,9 +4,9 @@
 
 - [Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G](https://github.com/ShawkTeam/devices/tree/ruby) [PAUSED]
 - [Redmi Note 10](https://github.com/ShawkTeam/devices/tree/sunny)
+- [Redmi Note 9/Redmi 10X](https://github.com/ShawkTeam/devices/tree/merlin)
 - [Redmi Note 8/8T](https://github.com/ShawkTeam/devices/tree/ginkgo)
 - [Redmi 10](https://github.com/ShawkTeam/devices/tree/selene)
-- [Exynos9611](https://github.com/ShawkTeam/devices/tree/exynos9611)
 
 ### Links
 - [Telegram Channel](https://t.me/shawkbuilds)
