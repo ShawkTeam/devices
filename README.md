@@ -18,7 +18,7 @@
 
 ### Links and etc..
 
-- [ShawkTeam Telegram Topic for Redmi Note8/8T](https://t.me/shawkbuilddiscussion/15004)
+- [Telegram Support Topic](https://t.me/shawkbuilddiscussion/15004)
 
 ### Device picture
 
