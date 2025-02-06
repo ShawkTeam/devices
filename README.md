@@ -1,7 +1,9 @@
 # Redmi Note 8/8T (ginkgo/willow)
 
-**Device Maintainer**
-- This Device maintained by [eklerismunir](https://github.com/eklerismunir) && [ozturkmutlu65](https://github.com/ozturkmutlu65)
+## Device Maintainers
+
+- [mnasibzade](https://github.com/mnasibzade)
+- [ozturkmutlu65](https://github.com/ozturkmutlu65)
 
 ## ROMs made by our maintainers for this device
 
@@ -12,12 +14,11 @@
 | EverestOS               | UNOFFICIAL                                                      |
 | Project Sakura          | UNOFFICIAL                                                      |
 | LineageOS               | UNOFFICIAL                                                      |
-| RisingTechOSS           | UNOFFICIAL                                                      |
+| RisinOS                 | UNOFFICIAL                                                      |
 
 ### Links and etc..
 
-- [Telegram Channel](https://t.me/shawkbuilds)
-- [Telegram Community](https://t.me/shawkbuilddiscussion)
+- [ShawkTeam Telegram Topic for Redmi Note8/8T](https://t.me/shawkbuilddiscussion/15004)
 
 ## Device picture
 
