@@ -20,6 +20,6 @@
 
 - [ShawkTeam Telegram Topic for Redmi Note8/8T](https://t.me/shawkbuilddiscussion/15004)
 
-## Device picture
+### Device picture
 
 ![Redmi Note 8](https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-8/specs1.png)
