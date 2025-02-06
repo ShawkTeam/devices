@@ -2,18 +2,14 @@
 
 ## Device Maintainers ##
 - [mnasibzade](https://github.com/mnasibzade)
-- [soyabkhanmalek](https://github.com/soyabkhanmalek)
 - [dpenra](https://github.com/dpenra)
 
 ### ROMs made by our maintainers for this device
 
 | ROMs                    | Status                                                          |
 | :---------------------- | :---------------------------------------------------------------|
-| CalyxOS                 | UNOFFICIAL                                                      |
 | AlphaDroid              | OFFICIAL                                                        |
-| OrionOS                 | OFFICIAL                                                        |
 | RisingOS                | UNOFFICIAL                                                      |
-| SomethingOS             | UNOFFICIAL                                                      |
 
 ### Links and etc..
 
