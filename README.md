@@ -13,8 +13,7 @@
 
 ### Links and etc..
 
-- [Telegram Channel](https://t.me/shawkbuilds)
-- [Telegram Community](https://t.me/shawkbuilddiscussion)
+- [Telegram Support Topic](https://t.me/shawkbuilddiscussion)
 
 ### Device picture
 
