@@ -3,18 +3,13 @@
 ## Device Maintainers
 
 - [mnasibzade](https://github.com/mnasibzade)
-- [ozturkmutlu65](https://github.com/ozturkmutlu65)
 
 ## ROMs made by our maintainers for this device
 
 | ROMs                    | Status                                                          |
 | :---------------------- | :---------------------------------------------------------------|
-| Project Matrixx         | UNOFFICIAL                                                      |
 | AlphaDroid              | OFFICIAL                                                        |
-| EverestOS               | UNOFFICIAL                                                      |
-| Project Sakura          | UNOFFICIAL                                                      |
 | LineageOS               | UNOFFICIAL                                                      |
-| RisinOS                 | UNOFFICIAL                                                      |
 
 ### Links and etc..
 
