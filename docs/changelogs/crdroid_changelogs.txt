@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: UNOFFICIAL
+Device: Xiaomi Redmi Note 9/10X 4G
+Device maintainer: EmreDemirn
+
+====================
+    07-02-2025
+  DEVICE CHENGELOG
+====================
+- Initial UNOFFICIAL build
