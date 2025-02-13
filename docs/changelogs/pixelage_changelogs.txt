@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Device: Xiaomi Redmi Note 9/ 10X 4G
+Device maintainer: EmreDemirn
+
+====================
+    13-02-2025
+  DEVICE CHENGELOG
+====================
+- Merged Pixelage 2.5 Source
+- February Security Patch!
+- Added MTK Codec Fix
