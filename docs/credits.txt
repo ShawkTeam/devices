@@ -1,0 +1,3 @@
+- ryuzen for base tree and kernel resources
+- kycii for help (my bro)
+- authors whose commits I used
