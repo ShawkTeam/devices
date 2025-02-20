@@ -1,0 +1,16 @@
+Flashing Instructions (Fastboot)
+0. fastboot devices
+1. fastboot flash boot <boot.img>
+2. fastboot flash vendor_boot <vendor_boot.img>
+3. fastboot reboot recovery
+4. in recovery perform data/factory reset (First Timer)
+5. click install update and adb sideload the rom
+6. adb sideload <rom.zip>
+7. done
+
+Additional Instructions (Firmware):
+- Most devices now uses 14.0.9.0 firmware so you can skip this part if you already flash it.
+8. reboot to recovery
+9. in recovery click install update and adb sideload the firmware
+10. adb sideload <firmware.zip>
+11. done
